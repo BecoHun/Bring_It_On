@@ -1,0 +1,8 @@
+# Fájlok kifelejtése
+*.db
+*.log
+
+# Mappák kifelejtése
+target/
+bin/
+
